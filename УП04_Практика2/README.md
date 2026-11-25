@@ -26,4 +26,4 @@ ai_service/
 ├── backup/            # Резервные копии
 │   └── network_backup.txt
 ├── .venv/             # Виртуальное окружение Python
-├── .gitignore         # Исключения для Git
+└── .gitignore         # Исключения для Git
