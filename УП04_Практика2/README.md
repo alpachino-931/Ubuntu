@@ -25,6 +25,5 @@ ai_service/
 │   └── server.log     # Лог фонового запуска сервера
 ├── backup/            # Резервные копии
 │   └── network_backup.txt
-├── .venv/             # Виртуальное окружение Python (скрыто)
-├── .gitignore         # Исключения для Git (чтобы не грузить .venv)
-└── README.md          # Этот файл
+├── .venv/             # Виртуальное окружение Python
+├── .gitignore         # Исключения для Git
